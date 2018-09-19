@@ -1,1 +1,1 @@
-convolutional neural network med brug af tensor
+convolutional neural network med brug af tensor 
