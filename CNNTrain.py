@@ -53,8 +53,4 @@ model.fit({'input': X_train}, {'target': y_train}, n_epoch=20,
 # Manually save model
 model.save("model.tfl")
 
-os.system('cls')
-
-print('Sucessfuly Trained And Saved Data')
-
 
